@@ -1,0 +1,5 @@
+{
+  "name": "ChefAI - Intelligent Recipe Generator",
+  "description": "Generate custom, delicious recipes based on ingredients you have at home using Gemini AI.",
+  "requestFramePermissions": []
+}
